@@ -1,0 +1,24 @@
+{
+  "name": "cource-api",
+  "version": "1.0.0",
+  "description": "It is a simole crud operation to manages a list of cource",
+  "main": "index.js",
+  "type": "module", 
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev":"nodemon src/index.js"
+
+  },
+  "author": "subham sarangi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

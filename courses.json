@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "java",
+    "description": "it is a full-stack java course",
+    "duration": "6 weeks"
+  },
+  {
+    "id": 2,
+    "title": "python",
+    "description": "it is a comprehensive python programming course",
+    "duration": "5 weeks"
+  },
+  {
+    "id": 3,
+    "title": "web development",
+    "description": "covers HTML, CSS, JavaScript, and responsive design",
+    "duration": "8 weeks"
+  },
+  {
+    "id": 4,
+    "title": "data science",
+    "description": "introduces data analysis, visualization, and machine learning",
+    "duration": "10 weeks"
+  },
+  {
+    "id": 5,
+    "title": "cybersecurity",
+    "description": "covers network security, cryptography, and ethical hacking",
+    "duration": "7 weeks"
+  },
+  {
+    "id": 6,
+    "title": "cloud computing",
+    "description": "focuses on AWS, Azure, and cloud architecture fundamentals",
+    "duration": "6 weeks"
+  },
+  {
+    "id": 7,
+    "title": "database management",
+    "description": "teaches SQL, NoSQL, and database design principles",
+    "duration": "4 weeks"
+  },
+  {
+    "id": 8,
+    "title": "mobile app development",
+    "description": "covers Android and iOS development using React Native",
+    "duration": "9 weeks"
+  },
+  {
+    "id": 9,
+    "title": "artificial intelligence",
+    "description": "introduces machine learning, neural networks, and AI algorithms",
+    "duration": "12 weeks"
+  },
+  {
+    "id": 10,
+    "title": "DevOps",
+    "description": "focuses on CI/CD, automation, and infrastructure as code",
+    "duration": "6 weeks"
+  },
+  {
+    "id": 11,
+    "title": "blockchain technology",
+    "description": "covers the basics of blockchain, cryptocurrencies, and smart contracts",
+    "duration": "9 weeks"
+  }
+]
